@@ -6,4 +6,5 @@ Summary: Simple iPhone app that does Tip Calc
 ==============
 
 Steps:
-Just run it on xCode 4.5.2 and above. Deploymen Target iOS 6.0
+==============
+Just run it on xCode 4.5.2 and above. Deployment Target iOS 6.0
